@@ -1,6 +1,5 @@
 # NLP_Coursework Repository
-
-This repository contains solutions to exercises from a Natural Language Processing coursework.
+This repository hosts practical solutions developed for a Natural Language Processing (NLP) coursework.
 
 ### Exercise 1: Language Modeling and Spelling Correction
 Focuses on fundamental concepts in language modeling and spelling correction.
